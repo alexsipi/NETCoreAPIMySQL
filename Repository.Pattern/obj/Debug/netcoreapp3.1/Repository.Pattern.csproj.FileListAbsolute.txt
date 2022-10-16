@@ -1,0 +1,13 @@
+C:\Github\Training\Repository.Pattern\bin\Debug\netcoreapp3.1\Repository.Pattern.deps.json
+C:\Github\Training\Repository.Pattern\bin\Debug\netcoreapp3.1\Repository.Pattern.dll
+C:\Github\Training\Repository.Pattern\bin\Debug\netcoreapp3.1\Repository.Pattern.pdb
+C:\Github\Training\Repository.Pattern\obj\Debug\netcoreapp3.1\Repository.Pattern.csproj.AssemblyReference.cache
+C:\Github\Training\Repository.Pattern\obj\Debug\netcoreapp3.1\Repository.Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Training\Repository.Pattern\obj\Debug\netcoreapp3.1\Repository.Pattern.AssemblyInfoInputs.cache
+C:\Github\Training\Repository.Pattern\obj\Debug\netcoreapp3.1\Repository.Pattern.AssemblyInfo.cs
+C:\Github\Training\Repository.Pattern\obj\Debug\netcoreapp3.1\Repository.Pattern.csproj.CoreCompileInputs.cache
+C:\Github\Training\Repository.Pattern\obj\Debug\netcoreapp3.1\Repository.Pattern.dll
+C:\Github\Training\Repository.Pattern\obj\Debug\netcoreapp3.1\Repository.Pattern.pdb
+C:\Github\Training\Repository.Pattern\bin\Debug\netcoreapp3.1\Repository.Pattern.runtimeconfig.json
+C:\Github\Training\Repository.Pattern\bin\Debug\netcoreapp3.1\Repository.Pattern.runtimeconfig.dev.json
+C:\Github\Training\Repository.Pattern\obj\Debug\netcoreapp3.1\Repository.Pattern.genruntimeconfig.cache

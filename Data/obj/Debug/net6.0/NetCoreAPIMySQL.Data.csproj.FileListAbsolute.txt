@@ -1,0 +1,15 @@
+C:\Github\Training\Data\bin\Debug\net6.0\NetCoreAPIMySQL.Data.deps.json
+C:\Github\Training\Data\bin\Debug\net6.0\NetCoreAPIMySQL.Data.dll
+C:\Github\Training\Data\bin\Debug\net6.0\NetCoreAPIMySQL.Data.pdb
+C:\Github\Training\Data\bin\Debug\net6.0\NetCoreAPIMySQL.Core.dll
+C:\Github\Training\Data\bin\Debug\net6.0\NetCoreAPIMySQL.Core.pdb
+C:\Github\Training\Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.csproj.AssemblyReference.cache
+C:\Github\Training\Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Training\Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.AssemblyInfoInputs.cache
+C:\Github\Training\Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.AssemblyInfo.cs
+C:\Github\Training\Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.csproj.CoreCompileInputs.cache
+C:\Github\Training\Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.csproj.CopyComplete
+C:\Github\Training\Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.dll
+C:\Github\Training\Data\obj\Debug\net6.0\refint\NetCoreAPIMySQL.Data.dll
+C:\Github\Training\Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.pdb
+C:\Github\Training\Data\obj\Debug\net6.0\ref\NetCoreAPIMySQL.Data.dll

@@ -1,0 +1,12 @@
+C:\Github\Training\Model\bin\Debug\net6.0\NetCoreAPIMySQL.Core.deps.json
+C:\Github\Training\Model\bin\Debug\net6.0\NetCoreAPIMySQL.Core.dll
+C:\Github\Training\Model\bin\Debug\net6.0\NetCoreAPIMySQL.Core.pdb
+C:\Github\Training\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.csproj.AssemblyReference.cache
+C:\Github\Training\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Training\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.AssemblyInfoInputs.cache
+C:\Github\Training\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.AssemblyInfo.cs
+C:\Github\Training\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.csproj.CoreCompileInputs.cache
+C:\Github\Training\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.dll
+C:\Github\Training\Model\obj\Debug\net6.0\refint\NetCoreAPIMySQL.Core.dll
+C:\Github\Training\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.pdb
+C:\Github\Training\Model\obj\Debug\net6.0\ref\NetCoreAPIMySQL.Core.dll
