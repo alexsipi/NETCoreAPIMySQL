@@ -10,3 +10,15 @@ C:\Github\Training\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.dll
 C:\Github\Training\Model\obj\Debug\net6.0\refint\NetCoreAPIMySQL.Core.dll
 C:\Github\Training\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.pdb
 C:\Github\Training\Model\obj\Debug\net6.0\ref\NetCoreAPIMySQL.Core.dll
+C:\Github\NETCoreAPIMySQL\Model\bin\Debug\net6.0\NetCoreAPIMySQL.Core.deps.json
+C:\Github\NETCoreAPIMySQL\Model\bin\Debug\net6.0\NetCoreAPIMySQL.Core.dll
+C:\Github\NETCoreAPIMySQL\Model\bin\Debug\net6.0\NetCoreAPIMySQL.Core.pdb
+C:\Github\NETCoreAPIMySQL\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.csproj.AssemblyReference.cache
+C:\Github\NETCoreAPIMySQL\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\NETCoreAPIMySQL\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.AssemblyInfoInputs.cache
+C:\Github\NETCoreAPIMySQL\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.AssemblyInfo.cs
+C:\Github\NETCoreAPIMySQL\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.csproj.CoreCompileInputs.cache
+C:\Github\NETCoreAPIMySQL\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.dll
+C:\Github\NETCoreAPIMySQL\Model\obj\Debug\net6.0\refint\NetCoreAPIMySQL.Core.dll
+C:\Github\NETCoreAPIMySQL\Model\obj\Debug\net6.0\NetCoreAPIMySQL.Core.pdb
+C:\Github\NETCoreAPIMySQL\Model\obj\Debug\net6.0\ref\NetCoreAPIMySQL.Core.dll

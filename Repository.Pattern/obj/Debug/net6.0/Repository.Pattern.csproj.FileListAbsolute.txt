@@ -1,5 +1,0 @@
-C:\Github\Training\Repository.Pattern\obj\Debug\net6.0\Repository.Pattern.csproj.AssemblyReference.cache
-C:\Github\Training\Repository.Pattern\obj\Debug\net6.0\Repository.Pattern.GeneratedMSBuildEditorConfig.editorconfig
-C:\Github\Training\Repository.Pattern\obj\Debug\net6.0\Repository.Pattern.AssemblyInfoInputs.cache
-C:\Github\Training\Repository.Pattern\obj\Debug\net6.0\Repository.Pattern.AssemblyInfo.cs
-C:\Github\Training\Repository.Pattern\obj\Debug\net6.0\Repository.Pattern.csproj.CoreCompileInputs.cache

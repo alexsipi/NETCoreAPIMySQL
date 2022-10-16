@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\Training\\Data\\NetCoreAPIMySQL.Data.csproj": {}
+    "C:\\Github\\NETCoreAPIMySQL\\Data\\NetCoreAPIMySQL.Data.csproj": {}
   },
   "projects": {
-    "C:\\Github\\Training\\Data\\NetCoreAPIMySQL.Data.csproj": {
+    "C:\\Github\\NETCoreAPIMySQL\\Data\\NetCoreAPIMySQL.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\Training\\Data\\NetCoreAPIMySQL.Data.csproj",
+        "projectUniqueName": "C:\\Github\\NETCoreAPIMySQL\\Data\\NetCoreAPIMySQL.Data.csproj",
         "projectName": "NetCoreAPIMySQL.Data",
-        "projectPath": "C:\\Github\\Training\\Data\\NetCoreAPIMySQL.Data.csproj",
+        "projectPath": "C:\\Github\\NETCoreAPIMySQL\\Data\\NetCoreAPIMySQL.Data.csproj",
         "packagesPath": "C:\\Users\\alex.simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\Training\\Data\\obj\\",
+        "outputPath": "C:\\Github\\NETCoreAPIMySQL\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex.simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Github\\Training\\Model\\NetCoreAPIMySQL.Core.csproj": {
-                "projectPath": "C:\\Github\\Training\\Model\\NetCoreAPIMySQL.Core.csproj"
+              "C:\\Github\\NETCoreAPIMySQL\\Model\\NetCoreAPIMySQL.Core.csproj": {
+                "projectPath": "C:\\Github\\NETCoreAPIMySQL\\Model\\NetCoreAPIMySQL.Core.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Github\\Training\\Model\\NetCoreAPIMySQL.Core.csproj": {
+    "C:\\Github\\NETCoreAPIMySQL\\Model\\NetCoreAPIMySQL.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\Training\\Model\\NetCoreAPIMySQL.Core.csproj",
+        "projectUniqueName": "C:\\Github\\NETCoreAPIMySQL\\Model\\NetCoreAPIMySQL.Core.csproj",
         "projectName": "NetCoreAPIMySQL.Core",
-        "projectPath": "C:\\Github\\Training\\Model\\NetCoreAPIMySQL.Core.csproj",
+        "projectPath": "C:\\Github\\NETCoreAPIMySQL\\Model\\NetCoreAPIMySQL.Core.csproj",
         "packagesPath": "C:\\Users\\alex.simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\Training\\Model\\obj\\",
+        "outputPath": "C:\\Github\\NETCoreAPIMySQL\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex.simon\\AppData\\Roaming\\NuGet\\NuGet.Config",

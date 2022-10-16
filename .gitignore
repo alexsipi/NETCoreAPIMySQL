@@ -1,7 +1,5 @@
 ﻿*.vsidx
 *.cache
 .vs
-bin
-obj
-Model\bin
-Model\obj
+[Bb]in
+[Dd]ebug*/

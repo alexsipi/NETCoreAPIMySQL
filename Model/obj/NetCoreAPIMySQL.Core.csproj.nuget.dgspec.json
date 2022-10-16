@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\Training\\Model\\NetCoreAPIMySQL.Core.csproj": {}
+    "C:\\Github\\NETCoreAPIMySQL\\Model\\NetCoreAPIMySQL.Core.csproj": {}
   },
   "projects": {
-    "C:\\Github\\Training\\Model\\NetCoreAPIMySQL.Core.csproj": {
+    "C:\\Github\\NETCoreAPIMySQL\\Model\\NetCoreAPIMySQL.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\Training\\Model\\NetCoreAPIMySQL.Core.csproj",
+        "projectUniqueName": "C:\\Github\\NETCoreAPIMySQL\\Model\\NetCoreAPIMySQL.Core.csproj",
         "projectName": "NetCoreAPIMySQL.Core",
-        "projectPath": "C:\\Github\\Training\\Model\\NetCoreAPIMySQL.Core.csproj",
+        "projectPath": "C:\\Github\\NETCoreAPIMySQL\\Model\\NetCoreAPIMySQL.Core.csproj",
         "packagesPath": "C:\\Users\\alex.simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\Training\\Model\\obj\\",
+        "outputPath": "C:\\Github\\NETCoreAPIMySQL\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alex.simon\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9XA4VL24ZLfkfuCYHs3V/JN5AcmISdpZnYOOx0U7MCjchs3wV400KMUfs0VCAv8qgZGAUuvfRsQo1AcTD33x8w==",
+  "dgSpecHash": "p9Bp9qsS37zca0dx4uaa4xeOtbFKCC2uj13y7IJ67Jr9R2wfDTcMG2yqESFZycIk9U2tyf9WnMakrtQEn7BeFA==",
   "success": true,
-  "projectFilePath": "C:\\Github\\Training\\NetCoreAPIMySQL\\NetCoreAPIMySQL.csproj",
+  "projectFilePath": "C:\\Github\\NETCoreAPIMySQL\\NetCoreAPIMySQL\\NetCoreAPIMySQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex.simon\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\alex.simon\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
